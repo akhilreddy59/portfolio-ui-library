@@ -97,7 +97,8 @@ Below are **12 unique visual portfolio approaches** with examples for inspiratio
 
 - Awwwards → https://www.awwwards.com/websites/portfolio/  
 - SiteInspire → https://www.siteinspire.com/  
-- Behance → https://www.behance.net/  
+- Behance → https://www.behance.net/
+- Bento → https://www.bento.me/
 
 ### 🧰 Component/UI Libraries
 
