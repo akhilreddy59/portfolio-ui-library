@@ -137,6 +137,7 @@ Below are **12 unique visual portfolio approaches** with examples for inspiratio
 ## 💡 Contribute
 
 Have a new trend, inspiration, or idea?
+Contact me for any collab or for suggestions !
 
 ⭐ Star this repo
 🍴 Fork it
