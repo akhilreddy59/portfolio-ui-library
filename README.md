@@ -67,7 +67,7 @@ Below are **12 unique visual portfolio approaches** with examples for inspiratio
 | 🔁 **Infinite Loop UI** | Endless text or gallery loop | https://www.ultra-ui.com/ |
 | 🎭 **Multi-layer Parallax** | Depth & motion per element | https://www.firewatchgame.com/ |
 | ✨ **Scroll-triggered Animation Timeline** | Story plays while scrolling | https://www.species-in-pieces.com/ |
-| ✨ **Smooth-scroll Effect** | Smooth Scrolling | https://www.species-in-pieces.com/ |
+| ✨ **Smooth-scroll Effect** | Smooth Scrolling | https://lenis.darkroom.engineering/ |
 
 ---
 
