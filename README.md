@@ -123,9 +123,6 @@ Copy-paste **React + Tailwind CSS** landing page sections for your portfolio pro
 | **CTA** |  [PageUI](https://pageui.shipixen.com) | `/sections/cta/` |
 | **Footer** | [Unsection](https://www.unsection.com/category/footer-section-design) | `/sections/footer/` |
 
-## 🌐 Top Sites for More Sections
-
-
 
 ---
 
