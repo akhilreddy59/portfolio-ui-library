@@ -12,8 +12,7 @@ A fully curated resource of cutting-edge portfolio concepts, UI interactions, 3D
 - [🎨 Portfolio Design Styles](#-portfolio-design-styles)  
 - [🌀 Scrolling & Interaction Patterns](#-scrolling--interaction-patterns)  
 - [🧩 Advanced Portfolio Features](#-advanced-portfolio-features)  
-- [📚 Resource Library](#-resource-library)  
-- [🎯 Recommended Stack & Style](#-recommended-stack-style)  
+- [📚 Resource Library](#-resource-library)    
 - [🚧 Future Enhancements](#-future-enhancements)  
 - [💡 Contribute](#-contribute)
 
@@ -107,6 +106,26 @@ Below are **12 unique visual portfolio approaches** with examples for inspiratio
 - Magic UI → https://magicui.design/  
 - Aceternity UI → https://ui.aceternity.com/
 - For 3d elements → https://spline.design/
+
+# 🚀 Landing Page Sections
+
+Copy-paste **React + Tailwind CSS** landing page sections for your portfolio projects. All sections are production-ready, responsive, and fully customizable.
+
+## 🎨 Featured Sections 
+
+| Section | Live Preview | Source | 
+|---------|--------------|--------|
+| **Hero** | [Material Tailwind](https://www.material-tailwind.com/free#hero) | `/sections/hero/` |
+| **Navbar** | [Flowbite](https://flowbite.com/blocks/marketing-navbar/) | `/sections/navbar/` |
+| **Features** | [Tailwind UI](https://tailwindcss.com/plus/ui-blocks#features) | `/sections/features/` |
+| **Pricing** |  [Cruip](https://github.com/cruip/tailwind-landing-page-template) | `/sections/pricing/` |
+| **Testimonials** |  [shadcn/ui](https://ui.shadcn.com/examples/landing-page) | `/sections/testimonials/` |
+| **CTA** |  [PageUI](https://pageui.shipixen.com) | `/sections/cta/` |
+| **Footer** | [Unsection](https://www.unsection.com/category/footer-section-design) | `/sections/footer/` |
+
+## 🌐 Top Sites for More Sections
+
+
 
 ---
 
