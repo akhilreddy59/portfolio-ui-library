@@ -152,9 +152,10 @@ Copy-paste **React + Tailwind CSS** landing page sections for your portfolio pro
 ---
 
 
-## Lovable coupon code - free lovable pro for 2 months - [ NEXTPLAY-LOV-25 ]
-Copy this code a paste while checkout and claim 2 months lovable pro for free.
-Using this build a fantastic portfolio for yourself or to your friends or even develop websites and make profit from it. 
+## More Stuff 
+- For logos   https://worldvectorlogo.com 
+- For top companies design MD Files   https://designmd.ai
+
 ### Suggestion : Use Google Aistudio to build projects with gemini integrated in it with ease. 
 
 
