@@ -52,6 +52,7 @@ Below are **12 unique visual portfolio approaches** with examples for inspiratio
 | **11** | 🌈 Retro Y2K | Aesthetic nostalgia | https://nekopalace.com/ |
 | **12** | 🔮 Cyberpunk Neon | Futuristic glitch & neon vibes | https://www.dennissnellenberg.com/ |
 
+
 ---
 
 ## 🌀 Scrolling & Interaction Patterns
@@ -91,7 +92,9 @@ Below are **12 unique visual portfolio approaches** with examples for inspiratio
 
 - GSAP Showcase → https://gsap.com/showcase/  
 - Lottie Animations → https://lottiefiles.com/  
-- CSS/JS Experiments → https://codepen.io/  
+- CSS/JS Experiments → https://codepen.io/
+- Image Effects editor → https://app.ditther.com/
+- Shattered glass effect generator → https://www.designminis.com/
 
 ### 🖼 Visual Inspiration Galleries
 
